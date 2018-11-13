@@ -26,7 +26,7 @@
     "grunt-cli": "*",
     "grunt": "*",
     "grunt-contrib-copy": "*",
-    "grunt-contrib-jshint": "*",
+    "grunt-contrib-jshint": "0.8.0",
     "grunt-contrib-connect": "*",
     "grunt-contrib-uglify": "*",
     "grunt-contrib-concat": "*",
